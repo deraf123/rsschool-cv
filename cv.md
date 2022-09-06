@@ -1,4 +1,3 @@
-
 #Alexander Dorofeychik
 ********* 
 ####Contacts:
@@ -8,6 +7,7 @@
 ********* 
 ####About myself:
 I want to learn Front-End Development in **RSSchool**!
+********* 
 ####skills:
 * **React**  
 * **Git**  
@@ -34,6 +34,8 @@ function race (v1, v2, g) {
 Nothing yet…
 ********* 
 ####Education and courses:
+Udemy courses https://www.udemy.com/course/javascript_full/
+Udemy courses https://www.udemy.com/course/webdeveloper/
 ********* 
 ####Language:
 English level - A2 (in progress B1)
